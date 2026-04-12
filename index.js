@@ -39,7 +39,7 @@ function addNewItem() {
  */
 function highlightParagraph() {
   // TODO: Implement this function
-  function highlightParagraph() {
+
  const paragraph = document.querySelector('.content-para');
   if (paragraph) {
     paragraph.classList.add('highlight');
